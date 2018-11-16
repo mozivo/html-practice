@@ -1,7 +1,12 @@
-body {
-    font-family: sans-serif;
-    padding: 0px;
-    margin: 0px;
+body{
+    font-family: "Open Sans",sans-serif;
+    background-color: aliceblue;
+    }
+
+#container{
+    widows: 1000px;
+    height: 844px;
+    background-color: cornflowerblue;
     }
 
 #menu1 {
@@ -119,4 +124,3 @@ input[type=submit]:hover {
         margin-top: 0;
     }
 }
-
